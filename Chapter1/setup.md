@@ -4,9 +4,19 @@
 
 2 安装 Node.js 都会默认安装 npm，所以我们执行以下命令安装 Git Book
 
-npm install -g gitbook-cli
+安装
 
-​	安装完之后，就会多了一个 **gitbook** 命令（如果没有，请确认上面的命令是否加了 `-g`）。
+```
+npm install gitbook-cli -g
+```
+
+卸载
+
+```
+npm uninstall gitbook-cli -g
+```
+
+安装完之后，就会多了一个 **gitbook** 命令（如果没有，请确认上面的命令是否加了 `-g`）。
 
 3 Typora: https://typora.io/
 

@@ -4,7 +4,12 @@
 
 ```shell
 gitbook build [书籍路径] [输出路径]
-1
+```
+
+如果要指定目录,那么添加在init后面
+
+```
+gitbook init ./directory
 ```
 
 serve 命令也可以指定端口：

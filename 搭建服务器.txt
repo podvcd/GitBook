@@ -1,0 +1,7 @@
+github Pages：利用github仓库做免费服务器储存，建立个人网站https://blog.csdn.net/ssh159/article/details/78792349
+
+搭建gitbook文档中心服务（Linux环境）
+https://www.jianshu.com/p/ec1e7d2c76c6
+
+利用 Gitbook 生成文档中心站点
+https://www.jianshu.com/p/f9f9ca86ef22
