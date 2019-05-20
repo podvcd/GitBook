@@ -1,0 +1,20 @@
+{
+  "title": "GitBook使用说明",
+  "description": "GitBook入门间接",
+  "language": "zh-hans",
+  "plugins": [
+    "github-buttons"
+  ],
+  "pluginsConfig": {
+
+  },
+  "links": {
+    "gitbook": false,
+    "sharing": {
+      "google": false,
+      "facebook": false,
+      "twitter": false,
+      "all": false
+    }
+  }
+}
