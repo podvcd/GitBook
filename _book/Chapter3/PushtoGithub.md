@@ -30,5 +30,5 @@ git commit -m "What you did?"
 
 git push
 
-cycle of git
+//cycle of git
 

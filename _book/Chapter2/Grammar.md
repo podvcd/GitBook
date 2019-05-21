@@ -258,28 +258,3 @@ alt="IMAGE ALT TEXT HERE" /></a>
 
 
 其它更新语法参看官方手册
-
-
-
-## Quiz
-
-Here's a quiz about Gitbook
-
-Question 1 of 2
-
-|                  | Good | Bad  |
-| ---------------- | ---- | ---- |
-| What is Gitbook? |      |      |
-
-Question 2 of 2
-
-What does Gitbook support?
-
--  Table-based questions with radio buttons
--  Table-based questions with checkboxes
--  Telepathy
--  List-based questions with checkboxes
--  List-based questions with radio buttons
--  Moon-on-a-stick
-
-[Submit](http://cowmanchiang.me/gitbook/gitbook/contents/plugin/quizzes.html#)[Solution](http://cowmanchiang.me/gitbook/gitbook/contents/plugin/quizzes.html#)
