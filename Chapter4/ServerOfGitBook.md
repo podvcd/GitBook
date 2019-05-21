@@ -14,13 +14,13 @@ pull 公共或所有数据
 
 选择项目
 
-![1558341305330](http://kan.027cgb.com/622149/GitBook/imgs\Chapter4_step3.png)
+![1558341305330](http://kan.027cgb.com/622149/GitBook/Chapter4_step3.png)
 
 
 
 选择分支代码还是主代码
 
-![1558341305330](../\imgs\Chapter4_step4.png)
+![1558341305330](http://kan.027cgb.com/622149/GitBook/Chapter4_step4.png)
 
 
 
