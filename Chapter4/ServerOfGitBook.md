@@ -2,19 +2,19 @@
 
 设置通过Github获取数据
 
-![1558341305330](../\imgs\Chapter4_step1.png)
+![1558341305330](http://kan.027cgb.com/622149/GitBook/Chapter4_step1.png)
 
 
 
 pull 公共或所有数据
 
-![1558341305330](../\imgs\Chapter4_step2.png)
+![1558341305330](http://kan.027cgb.com/622149/GitBook/Chapter4_step2.png)
 
 
 
 选择项目
 
-![1558341305330](../\imgs\Chapter4_step3.png)
+![1558341305330](http://kan.027cgb.com/622149/GitBook/imgs\Chapter4_step3.png)
 
 
 
@@ -28,7 +28,7 @@ pull 公共或所有数据
 
 完成后的界面
 
-![1558341305330](../\imgs\Chapter4_step5.bmp)
+![1558341305330](http://kan.027cgb.com/622149/GitBook/Chapter4_step5.png)
 
 
 

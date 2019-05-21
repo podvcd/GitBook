@@ -14,7 +14,7 @@ git remote add origin  <https://github.com/podvcd/GitBook>
 
 git push -u origin master
 
-![img](../\imgs\Chapter3_PushtoGithub.bmp)
+![img](http://kan.027cgb.com/622149/GitBook/Chapter3_PushtoGithub.png)
 
 
 

@@ -1,6 +1,6 @@
 # 第1节：Summary 编辑
 
-![1558340986978](../\imgs\Chapter2_Summary.png)
+![1558340986978](http://kan.027cgb.com/622149/GitBook/Chapter2_Summary.png)
 
 
 

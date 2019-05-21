@@ -4,4 +4,4 @@
 
 
 
-![1558341305330](../\imgs\Chapter2_BuildHTML.png)
+![1558341305330](http://kan.027cgb.com/622149/GitBook/Chapter2_BuildHTML.png)

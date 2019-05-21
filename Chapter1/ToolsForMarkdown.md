@@ -1,6 +1,6 @@
 # 第2节：Markdown 编辑工具的选择
 
-![img](../\imgs\Chapter1_ToolsForMarkdown.png)
+![img](http://kan.027cgb.com/622149/GitBook/Chapter1_ToolsForMarkdown.png)
 
 
 

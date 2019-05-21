@@ -7,7 +7,7 @@ GitBook 是一个基于 Node.js 的命令行工具，支持 Markdown 和 AsciiDo
 
 
 
-![img](.\imgs\readme.png)
+![img](http://kan.027cgb.com/622149/GitBook/readme.png)
 
 
 
@@ -24,4 +24,4 @@ GitBook 不是 Markdown 编辑工具，也不是 Git 版本管理工具。市面
 
 
 
-![img](./\imgs\Chapter1_ToolsForMarkdown.png)
+![img](http://kan.027cgb.com/622149/GitBook/Chapter1_ToolsForMarkdown.png)

@@ -88,7 +88,7 @@
 
 - 运行安装命令如图: 
 
-![img](../\imgs\Chapter1_plug_in.png)
+![img](http://kan.027cgb.com/622149/GitBook/Chapter1_plug_in.png)
 
 
 
