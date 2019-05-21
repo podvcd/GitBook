@@ -3,10 +3,9 @@
   "description": "GitBook入门间接",
   "language": "zh-hans",
   "plugins": [
-    "github-buttons"
+    "splitter"
   ],
   "pluginsConfig": {
-
   },
   "links": {
     "gitbook": false,
